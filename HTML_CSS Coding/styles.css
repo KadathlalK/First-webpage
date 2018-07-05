@@ -1,0 +1,38 @@
+#center
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+#q
+{
+  color: red;
+  background-color: black;
+  text-align: center;
+  font-family: cursive;
+  font-size: 40pt
+}
+
+body
+{
+  background-color: black
+}
+
+.WebLink
+{
+  text-align: left;
+  color: white;
+  font-family: Arial;
+  font-style: normal;
+  font-size: 12pt;
+}
+
+#YlwLnk
+{
+  font-family: Arial;
+  font-size: 12pt;
+  font-style: italic;
+  color: yellow;
+}
